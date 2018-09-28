@@ -14,6 +14,9 @@ int main(int argc, char **argv)
     printf("Add At Develop Branch mIntVar1 = %d, mPonit = %d\n", mIntVar1, *mPonit);
     printf("Add At Master Branch mIntVar1 = %d, mPonit = %d\n", mIntVar1, *mPonit);
     printf("Add At Master Branch mIntVar1 = %d, mPonit = %d\n", mIntVar1, *mPonit);
+    printf("Add At Master Branch mIntVar1 = %d, mPonit = %d\n", mIntVar1, *mPonit);
+    printf("\033[34mAdd At Master Branch mIntVar1 = %d, mPonit = %d\033[0m\n", mIntVar1, *mPonit);
+    printf("test");
     printf("test");
 
     exit(0);
